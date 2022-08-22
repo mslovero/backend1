@@ -104,6 +104,3 @@ async function  main(){
   console.log(await productos.listarAll());
 }
 main();
-
-
-
