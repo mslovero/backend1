@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "art": "mesa",
+    "price": 80000,
+    "img": "https://regaldekor.com/mesas/tipos-de-mesa/mesas-de-comedor/mesa-de-comedor-nordica-redonda-extensible-dt-155-120-160-cm.html://www.shopmania.es/q-jarrones"
+  },
+  {
+    "id": 3,
+    "art": "silla",
+    "price": 12000,
+    "img": "https://www.muebles.com/producto/silla-modelo-roble-enea-2/"
+  },
+  {
+    "id": 4,
+    "art": "silla",
+    "price": 12000,
+    "img": "https://www.muebles.com/producto/silla-modelo-roble-enea-2/"
+  }
+]
